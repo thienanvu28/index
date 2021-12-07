@@ -541,7 +541,7 @@ nav .container {
 }
 
 .footer .container {
-	background-color: var(--dark-one);
+  background-color: var(--dark-one);
 }
 
 .footer .grid-4 {
@@ -623,7 +623,7 @@ nav .container {
 
 .copyright .text {
   color: #7b7b7b;
-  font-size: 1.2rem;
+  font-size: 16PX;
   display: inline-block;
   text-align: center;
 }
@@ -645,7 +645,7 @@ nav .container {
 .followme h3 {
   color: #7b7b7b;
   font-weight: 500;
-  font-size: 1.3rem;
+  font-size: 16px;
 }
 
 .followme .footer-line {
